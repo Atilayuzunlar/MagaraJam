@@ -1,2 +1,0 @@
-# MagaraJam
-MagaraJam Games
